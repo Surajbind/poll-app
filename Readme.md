@@ -1,0 +1,1 @@
+This is a MERN stack project which can be as voting application.
